@@ -51,9 +51,9 @@
 ---
 
 
-### 🏆 Achievements & Trophies
+### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samir0560&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=samir0560&theme=flat&no-bg=true&margin-w=15&column=4" />
 </p>
 
 

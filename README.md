@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **React.js & Next.js**
-- 💬 Ask me about **MERN-Stack | Full Stack Java (Spring Boot)**  
+- 💬 Ask me about **MEAN-Stack | Full Stack Java (Spring Boot)**  
 - 📧 Reach me at **samirchaudhary11145@gmail.com**
 - 🎯 Goal: To contribute to **real-world scalable applications** and grow as a full-stack developer.
 

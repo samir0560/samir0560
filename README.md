@@ -22,9 +22,9 @@
 ### 🔗 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/samir" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://fb.com/starc lite sam" target="blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
-<a href="https://instagram.com/samir.ch_" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
-<a href="https://www.youtube.com/c/starc_01" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
+<!-- <a href="https://fb.com/starc lite sam" target="blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a> -->
+<!-- <a href="https://instagram.com/samir.ch_" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a> -->
+<!-- <a href="https://www.youtube.com/c/starc_01" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a> -->
 <a href="https://www.hackerrank.com/samir0560" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/></a>
 <a href="https://leetcode.com/samir0560" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/></a>
 </p>

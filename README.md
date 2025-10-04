@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Samir Chaudhary</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | JavaScript • Java • MERN • Spring Boot • Cloud</h3>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | JavaScript • Java • MEAN • Spring Boot • Cloud</h3>
 
 <!-- Profile Views & Badges -->
 <p align="center">

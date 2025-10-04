@@ -52,9 +52,24 @@
 
 
 ### 🏆 Achievements
+<!-- Achievements Section -->
+<h2 align="center"> 🏆 Achievements & Trophies </h2>
+
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samir0560&theme=flat&no-bg=true&margin-w=15&column=4" />
+  <img src="https://img.shields.io/badge/-My%20GitHub%20Achievements-%230A0F24?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F24&color=5f27cd" />
 </p>
+
+<!-- Trophy Showcase -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samir0560&theme=onedark&no-frame=true&margin-w=20&margin-h=20&row=2&column=4" />
+</p>
+
+<!-- Glassmorphism-style Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5f27cd,100:48dbfb&height=2&section=header&text=" />
+</p>
+
 
 
 ---
